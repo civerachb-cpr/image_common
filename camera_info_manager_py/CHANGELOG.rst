@@ -2,7 +2,7 @@
 Changelog for package camera_info_manager_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-6.0.1 (2024-11-22)
+3.1.9 (2024-11-22)
 ------------------
 * Bump package version to synchronize with image_common
 * Contributors: Chris Iverach-Brereton
